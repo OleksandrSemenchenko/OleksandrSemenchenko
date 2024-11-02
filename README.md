@@ -4,7 +4,7 @@ I believe that my combination of analytical thinking, data expertise, and soft s
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/oleksandr-semenchenko/)
-- [semenchenko.oleksander@gmail.com](https://www.linkedin.com/in/oleksandr-semenchenko/)
+- [semenchenko.oleksander@gmail.com](semenchenko.oleksander@gmail.com)
 
 ## Skills
 - **Languages & Web Technologes:** Java, SQL, Bash, Thymeleaf, HTML/CSS, Bootstrap
